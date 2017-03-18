@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="Sat Mar 18 16:36:39 2017" revision="794" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>f013c285-295c-4ed6-af60-06ea540cde0a</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="Sat Mar 18 17:19:18 2017" revision="795" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>a4ea38bf-10fa-4156-aac4-87dd23b94795</edit_uuid>
 <main_units record_uuid="{de23a556-27d3-44e9-baf5-d61db7ee9791}" record_timestamp="1481031609625" record_key="wh_dlc01_chs_cav_gorebeast_chariot">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
@@ -19393,7 +19393,7 @@
 <weight>light</weight>
 <world_leader_only>0</world_leader_only>
 </main_units>
-<main_units record_uuid="{a92db8aa-c1c8-499f-aa46-a529ea7ddd74}" record_timestamp="1489818999740" record_key="wh_main_dwf_inf_slayers_troll">
+<main_units record_uuid="{a92db8aa-c1c8-499f-aa46-a529ea7ddd74}" record_timestamp="1489821557991" record_key="wh_main_dwf_inf_slayers_troll">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_Unique</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh_main_vo_culture_Dwarf</audio_voiceover_culture>
@@ -19423,7 +19423,7 @@
 <porthole_camera>dwf_warrior_30_degrees</porthole_camera>
 <porthole_composite_scene></porthole_composite_scene>
 <prestige>0</prestige>
-<recruitment_cost>1100</recruitment_cost>
+<recruitment_cost>900</recruitment_cost>
 <recruitment_movie></recruitment_movie>
 <region_unit_resource_requirement></region_unit_resource_requirement>
 <religion_requirement></religion_requirement>
@@ -19436,7 +19436,7 @@
 <unique_index>1477773316</unique_index>
 <unit>wh_main_dwf_inf_slayers_troll</unit>
 <unit_scaling>1</unit_scaling>
-<upkeep_cost>275</upkeep_cost>
+<upkeep_cost>225</upkeep_cost>
 <use_hitpoints_in_campaign>0</use_hitpoints_in_campaign>
 <weight>medium</weight>
 <world_leader_only>0</world_leader_only>

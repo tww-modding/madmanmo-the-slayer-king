@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_units_allowed.xsd" export_time="Sat Mar 18 16:41:53 2017" revision="224" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>ad8bc888-005a-46fb-9319-555b8a6a5faf</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_units_allowed.xsd" export_time="Sat Mar 18 17:20:04 2017" revision="226" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>8e7fea50-cc7e-4c65-9fff-c152b9cda73e</edit_uuid>
 <building_units_allowed record_uuid="{d262c1e9-4b04-4655-8442-2df93ebdda6d}" record_timestamp="1489807743674" record_key="1081059217">
 <XP>0</XP>
 <building>wh_main_dwf_slayer_1</building>
@@ -892,21 +892,21 @@
 <key>60004</key>
 <unit>wh_main_dwf_inf_longbeards_1</unit>
 </building_units_allowed>
-<building_units_allowed record_uuid="{e71ac7c0-2751-4050-a384-7d514b69e360}" record_timestamp="1489819313338" record_key="60013">
+<building_units_allowed record_uuid="{e71ac7c0-2751-4050-a384-7d514b69e360}" record_timestamp="1489821604933" record_key="60013">
 <XP>0</XP>
 <building>wh_main_dwf_slayer_1</building>
 <conditions></conditions>
-<enabled>1</enabled>
-<faction></faction>
+<enabled>0</enabled>
+<faction>wh_dlc05_wef_wood_elves_rebels</faction>
 <key>60013</key>
 <unit>wh_main_dwf_inf_slayers</unit>
 </building_units_allowed>
-<building_units_allowed record_uuid="{8e89f9be-ef23-4c4a-8bc9-068190bc93c4}" record_timestamp="1489819313354" record_key="60048">
+<building_units_allowed record_uuid="{8e89f9be-ef23-4c4a-8bc9-068190bc93c4}" record_timestamp="1489821604913" record_key="60048">
 <XP>0</XP>
 <building>wh_main_dwf_slayer_2</building>
 <conditions></conditions>
-<enabled>1</enabled>
-<faction></faction>
+<enabled>0</enabled>
+<faction>wh_dlc05_wef_wood_elves_rebels</faction>
 <key>60048</key>
 <unit>wh_main_dwf_inf_slayers</unit>
 </building_units_allowed>
@@ -2305,12 +2305,12 @@
 <key>62211</key>
 <unit>wh_main_chs_mon_trolls</unit>
 </building_units_allowed>
-<building_units_allowed record_uuid="{a6c1f71b-8d25-4990-8e10-089bc0fede3a}" record_timestamp="1489819313384" record_key="62227">
+<building_units_allowed record_uuid="{a6c1f71b-8d25-4990-8e10-089bc0fede3a}" record_timestamp="1489821604895" record_key="62227">
 <XP>0</XP>
 <building>wh_main_special_great_slayer_shrine</building>
 <conditions></conditions>
 <enabled>0</enabled>
-<faction></faction>
+<faction>wh_dlc05_wef_wood_elves_rebels</faction>
 <key>62227</key>
 <unit>wh_main_dwf_inf_slayers</unit>
 </building_units_allowed>

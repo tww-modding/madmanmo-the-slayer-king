@@ -229,7 +229,7 @@
 <uuid name="building_states">1a64e8db-72a0-4171-bd9a-e2409d6b2000</uuid>
 <uuid name="building_superchains">335560cd-e3ca-461a-93fa-205e36f91503</uuid>
 <uuid name="building_to_building_benefit_junctions">10d5d49e-2333-4bba-8b38-d14314daec13</uuid>
-<uuid name="building_units_allowed">ad8bc888-005a-46fb-9319-555b8a6a5faf</uuid>
+<uuid name="building_units_allowed">8e7fea50-cc7e-4c65-9fff-c152b9cda73e</uuid>
 <uuid name="building_upgrades_junction">38e7ab16-4d47-42e6-9507-893afe01c206</uuid>
 <uuid name="cai_agent_distribution_profiles">bc8b5b04-4202-4391-a4d2-6449b0b1c86d</uuid>
 <uuid name="cai_agent_distribution_types">92115099-6ed2-4884-9183-dc1947a8e722</uuid>
@@ -763,7 +763,7 @@
 <uuid name="incidents">98d47b24-f218-4261-a939-57d2a2d5047d</uuid>
 <uuid name="interfaction_loyalty_factors">46d7d18d-60fc-4386-991e-82157fc4f1cf</uuid>
 <uuid name="land_unit_articulated_vehicles">ec464502-870f-4105-b2fb-872121c28269</uuid>
-<uuid name="land_units">1ae4f3a9-e34b-4379-8ef9-77fcc46f7263</uuid>
+<uuid name="land_units">83027e88-cc82-49cb-b773-9d7dc65b82e8</uuid>
 <uuid name="land_units_additional_personalities_groups">15180265-183f-4d75-88ab-96dd0bccaf46</uuid>
 <uuid name="land_units_additional_personalities_groups_junctions">8b3a8343-8023-4b4d-ac5e-acd244884619</uuid>
 <uuid name="land_units_officers">b6ab62e4-a061-44fc-8bb2-fdd24a3c1ac9</uuid>
@@ -777,7 +777,7 @@
 <uuid name="loading_screen_texts">ef711ac9-22f9-4e62-be26-f03d51216466</uuid>
 <uuid name="loyalty_effects">e863fbf8-2cbc-49e8-9381-0c047c84293e</uuid>
 <uuid name="loyalty_factors">a976bf8a-3cb0-4594-851c-b344e10c67cc</uuid>
-<uuid name="main_units">f013c285-295c-4ed6-af60-06ea540cde0a</uuid>
+<uuid name="main_units">a4ea38bf-10fa-4156-aac4-87dd23b94795</uuid>
 <uuid name="melee_weapons">044c3884-de9a-4943-b3f2-345958f2365d</uuid>
 <uuid name="mercenary_pool_modifiers">cdb32b7e-d0e8-4f48-9856-3919ba44c0bd</uuid>
 <uuid name="mercenary_pool_to_groups_junctions">e83d2e6e-e106-4a8e-87a8-bbd7482fe7dc</uuid>
