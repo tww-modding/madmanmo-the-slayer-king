@@ -28,11 +28,11 @@ if ($new -ne $original)
     [System.IO.File]::WriteAllText($masterUpdateCommandsPath, $new);
 
     # increment the minor version by 1
-    $packageFilePath = "$rootDirectoryPath\mod.json";
-    $package = ConvertFrom-Json ([System.IO.File]::ReadAllText($packageFilePath));
-    $package.version.patch = $package.version.patch + 1;
+    $modFilePath = "$rootDirectoryPath\mod.json";
+    $mod = ConvertFrom-Json ([System.IO.File]::ReadAllText($modFilePath));
+    $mod.version.patch = $mod.version.patch + 1;
 
-    [System.IO.File]::WriteAllText($packageFilePath, (ConvertTo-Json $package));
+    [System.IO.File]::WriteAllText($modFilePath, (ConvertTo-Json $mod));
 }
 else
 {
