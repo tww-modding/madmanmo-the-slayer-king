@@ -1,0 +1,8 @@
+{
+	name: "madmanmo-the-slayer-king",
+	version: {
+		breaking: 0,
+		patch: 0,
+		build: 1
+	}
+}

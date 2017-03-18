@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_military_generator_unit_qualities.xsd" export_time="Thu Feb 16 13:49:43 2017" revision="149" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>5920913b-abe3-48f4-80fe-cda8c3597911</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_military_generator_unit_qualities.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="150" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>44d6a3c5-e0d2-4e70-9cea-4c5ece2be94f</edit_uuid>
 <cdir_military_generator_unit_qualities record_uuid="{7418652c-c2f5-47f9-a2e5-c83fe84d5257}" record_timestamp="1474299177012" record_key="Default_dlc06_land_animal_pack_skarsnik_waaaghwh_dlc06_grn_inf_squig_herd_0">
 <group_key>Default_dlc06_land_animal_pack_skarsnik_waaagh</group_key>
 <quality>500</quality>
@@ -1625,6 +1625,21 @@
 <group_key>Default_land_infantry_melee</group_key>
 <quality>2000</quality>
 <unit_key>wh_main_dwf_inf_slayers</unit_key>
+</cdir_military_generator_unit_qualities>
+<cdir_military_generator_unit_qualities record_uuid="{da607280-2591-4c0f-8dbe-3445a1204b03}" record_timestamp="1489807743944" record_key="Default_land_infantry_meleewh_main_dwf_inf_slayers_giant">
+<group_key>Default_land_infantry_melee</group_key>
+<quality>3000</quality>
+<unit_key>wh_main_dwf_inf_slayers_giant</unit_key>
+</cdir_military_generator_unit_qualities>
+<cdir_military_generator_unit_qualities record_uuid="{9027bffd-99fc-4a32-abac-b5f86be0c585}" record_timestamp="1489807743943" record_key="Default_land_infantry_meleewh_main_dwf_inf_slayers_neophyte">
+<group_key>Default_land_infantry_melee</group_key>
+<quality>1000</quality>
+<unit_key>wh_main_dwf_inf_slayers_neophyte</unit_key>
+</cdir_military_generator_unit_qualities>
+<cdir_military_generator_unit_qualities record_uuid="{28e2df76-5e67-42a4-8adc-6db000801b4c}" record_timestamp="1489807743942" record_key="Default_land_infantry_meleewh_main_dwf_inf_slayers_troll">
+<group_key>Default_land_infantry_melee</group_key>
+<quality>2000</quality>
+<unit_key>wh_main_dwf_inf_slayers_troll</unit_key>
 </cdir_military_generator_unit_qualities>
 <cdir_military_generator_unit_qualities record_uuid="{fa3677fc-4814-4734-b280-03a23d5e0546}" record_timestamp="1456238131416" record_key="Default_land_infantry_meleewh_main_emp_inf_greatswords">
 <group_key>Default_land_infantry_melee</group_key>

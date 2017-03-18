@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_variants.xsd" export_time="Thu Feb 16 11:56:29 2017" revision="485" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>9ce7f814-5633-4a02-8a6b-28c139468c52</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_variants.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="486" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>bfa5a049-3a7f-4cd0-ac6f-bdce54f06663</edit_uuid>
 <unit_variants record_uuid="{079979f9-23a2-4613-a402-4dba67270777}" record_timestamp="1440776354422" record_key="wh_dlc01_chs_cav_gorebeast_chariot">
 <faction></faction>
 <name>wh_dlc01_chs_cav_gorebeast_chariot</name>
@@ -2772,6 +2772,27 @@
 <unit>wh_main_dwf_inf_slayers</unit>
 <unit_card>wh_main_dwf_slayers</unit_card>
 <variant>wh_dwf_slayers</variant>
+</unit_variants>
+<unit_variants record_uuid="{8d8b2e29-2b05-4a34-82e3-4cec85d076a3}" record_timestamp="1489807743957" record_key="wh_main_dwf_inf_slayers_giant">
+<faction></faction>
+<name>wh_main_dwf_inf_slayers_giant</name>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+<unit_card>wh_main_dwf_slayers</unit_card>
+<variant>wh_dwf_slayers_giant</variant>
+</unit_variants>
+<unit_variants record_uuid="{1d0a28e5-1fcb-4a49-bc21-eed871511ff1}" record_timestamp="1489807743958" record_key="wh_main_dwf_inf_slayers_neophyte">
+<faction></faction>
+<name>wh_main_dwf_inf_slayers_neophyte</name>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+<unit_card>wh_main_dwf_slayers</unit_card>
+<variant>wh_dwf_slayers_neophytes</variant>
+</unit_variants>
+<unit_variants record_uuid="{7d886df5-4d88-4229-b17d-df7dd9b71d26}" record_timestamp="1489807743957" record_key="wh_main_dwf_inf_slayers_troll">
+<faction></faction>
+<name>wh_main_dwf_inf_slayers_troll</name>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+<unit_card>wh_main_dwf_slayers</unit_card>
+<variant>wh_dwf_slayers_troll</variant>
 </unit_variants>
 <unit_variants record_uuid="{8b10ee27-c194-4da8-b69b-e30ac0e02566}" record_timestamp="1429087924351" record_key="wh_main_dwf_inf_thunderers_0">
 <faction></faction>

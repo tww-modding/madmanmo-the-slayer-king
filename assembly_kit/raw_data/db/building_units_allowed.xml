@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_units_allowed.xsd" export_time="Thu Feb 16 17:26:49 2017" revision="222" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>47e5f197-07a5-4746-94a7-0e84da31f3e4</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_units_allowed.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="223" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>7582c44e-9563-4433-b80d-c59bd98b31e2</edit_uuid>
+<building_units_allowed record_uuid="{d262c1e9-4b04-4655-8442-2df93ebdda6d}" record_timestamp="1489807743674" record_key="1081059217">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_1</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>1081059217</key>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</building_units_allowed>
 <building_units_allowed record_uuid="{1d78a9c4-6dd6-4809-b5b9-d83878c47d7b}" record_timestamp="1487266008582" record_key="1396251449">
 <XP>0</XP>
 <building>wh_main_brt_barracks_4</building>
@@ -9,6 +18,42 @@
 <faction></faction>
 <key>1396251449</key>
 <unit>wh_dlc07_brt_inf_men_at_arms_1</unit>
+</building_units_allowed>
+<building_units_allowed record_uuid="{0eac3579-ece2-47fb-acf8-61182fc6abb4}" record_timestamp="1489807743667" record_key="1396331821">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_0</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>1396331821</key>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</building_units_allowed>
+<building_units_allowed record_uuid="{bccbf9a0-7c45-4d10-b304-de4372c39e07}" record_timestamp="1489807743676" record_key="1575321645">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_2</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>1575321645</key>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+</building_units_allowed>
+<building_units_allowed record_uuid="{e74675b2-f404-4aeb-917e-a155423a2e40}" record_timestamp="1489807743676" record_key="1941247334">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_1</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>1941247334</key>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+</building_units_allowed>
+<building_units_allowed record_uuid="{171a7081-b435-40a6-88b2-61c73be363ce}" record_timestamp="1489807743665" record_key="469355340">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_2</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>469355340</key>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
 </building_units_allowed>
 <building_units_allowed record_uuid="{74d293b3-fb6b-4487-8967-72bba9d6829a}" record_timestamp="1426699611123" record_key="55207">
 <XP>0</XP>
@@ -4275,5 +4320,14 @@
 <faction></faction>
 <key>63656</key>
 <unit>wh_main_brt_cav_grail_knights</unit>
+</building_units_allowed>
+<building_units_allowed record_uuid="{81a9f943-88ea-48d2-89ba-f2c1339d7f73}" record_timestamp="1489807743669" record_key="885281106">
+<XP>0</XP>
+<building>wh_main_dwf_slayer_2</building>
+<conditions></conditions>
+<enabled>0</enabled>
+<faction></faction>
+<key>885281106</key>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
 </building_units_allowed>
 </dataroot>

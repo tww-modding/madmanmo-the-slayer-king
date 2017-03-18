@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="Mon Feb 13 15:44:57 2017" revision="308" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>c2d7c1f1-eee3-4821-84a0-a6981bc70cb9</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="309" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>c841d783-891a-44bf-bbe1-da45da32e41c</edit_uuid>
 <units_custom_battle_permissions record_uuid="{a21b529d-f340-4196-820c-82ae1e7aee55}" record_timestamp="1429184480982" record_key="wh_dlc01_chs_cav_gorebeast_chariotwh_main_chs_chaosfalse">
 <faction>wh_main_chs_chaos</faction>
 <general_portrait></general_portrait>
@@ -7360,6 +7360,66 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_main_dwf_inf_quarrellers_1</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{6b3dd085-602b-4213-a7bf-5bac60cf443a}" record_timestamp="1489807743933" record_key="wh_main_dwf_inf_slayers_giantwh_main_dwf_dwarfsfalse">
+<faction>wh_main_dwf_dwarfs</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{081bfa51-cecd-420d-9c2b-3afdbd0e0be4}" record_timestamp="1489807743933" record_key="wh_main_dwf_inf_slayers_giantwh_main_dwf_karak_izorfalse">
+<faction>wh_main_dwf_karak_izor</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{359c3901-fdac-489b-a0da-b9e6dbbd5889}" record_timestamp="1489807743932" record_key="wh_main_dwf_inf_slayers_neophytewh_main_dwf_dwarfsfalse">
+<faction>wh_main_dwf_dwarfs</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{510da39b-18ec-45d5-91e6-b6a8bf9acb5a}" record_timestamp="1489807743932" record_key="wh_main_dwf_inf_slayers_neophytewh_main_dwf_karak_izorfalse">
+<faction>wh_main_dwf_karak_izor</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{a9a7bf7c-533e-4169-af08-ed2ed130303e}" record_timestamp="1489807743933" record_key="wh_main_dwf_inf_slayers_trollwh_main_dwf_dwarfsfalse">
+<faction>wh_main_dwf_dwarfs</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+</units_custom_battle_permissions>
+<units_custom_battle_permissions record_uuid="{328623e1-c7ef-44fc-9f81-0cc877bc8cdf}" record_timestamp="1489807743933" record_key="wh_main_dwf_inf_slayers_trollwh_main_dwf_karak_izorfalse">
+<faction>wh_main_dwf_karak_izor</faction>
+<general_portrait></general_portrait>
+<general_uniform></general_uniform>
+<general_unit>0</general_unit>
+<set_piece_character></set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{be19a1b7-4c4e-4e4d-9ecf-69ad1146b20a}" record_timestamp="1420628845792" record_key="wh_main_dwf_inf_slayerswh_main_dwf_dwarfsfalse">
 <faction>wh_main_dwf_dwarfs</faction>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="variants.xsd" export_time="Thu Feb 16 11:56:29 2017" revision="362" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>8a9dcb3d-9ec0-4a39-b2bf-85cdcd6839e8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="variants.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="363" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>8429e8a2-a3f7-4f4f-be21-250716641ec0</edit_uuid>
 <variants record_uuid="{296f2bdf-726c-4bf0-a11b-96c18eaea41c}" record_timestamp="1449762398469" record_key="campaign_brt_ship_agent">
 <low_poly_filename></low_poly_filename>
 <mount_scale>1</mount_scale>
@@ -3510,6 +3510,33 @@
 <tech_folder></tech_folder>
 <variant_filename>dwf_slayers</variant_filename>
 <variant_name>wh_dwf_slayers</variant_name>
+</variants>
+<variants record_uuid="{46de1b87-14ce-42e0-bb9c-ff375fd9eff9}" record_timestamp="1489807743944" record_key="wh_dwf_slayers_giant">
+<low_poly_filename>hu3/dwf/dwf_slayers/low_poly/dwf_slayers_lowlod</low_poly_filename>
+<mount_scale>1</mount_scale>
+<scale>1.05</scale>
+<scale_variation>0.05</scale_variation>
+<tech_folder></tech_folder>
+<variant_filename>dwf_slayers</variant_filename>
+<variant_name>wh_dwf_slayers_giant</variant_name>
+</variants>
+<variants record_uuid="{f4dda09f-beee-43c8-8887-a9f1b3642427}" record_timestamp="1489807743944" record_key="wh_dwf_slayers_neophytes">
+<low_poly_filename>hu3/dwf/dwf_slayers/low_poly/dwf_slayers_lowlod</low_poly_filename>
+<mount_scale>1</mount_scale>
+<scale>0.9</scale>
+<scale_variation>0.05</scale_variation>
+<tech_folder></tech_folder>
+<variant_filename>dwf_slayers</variant_filename>
+<variant_name>wh_dwf_slayers_neophytes</variant_name>
+</variants>
+<variants record_uuid="{eee4b43b-eb4b-4ddb-bedd-a505bcda7273}" record_timestamp="1489807743944" record_key="wh_dwf_slayers_troll">
+<low_poly_filename>hu3/dwf/dwf_slayers/low_poly/dwf_slayers_lowlod</low_poly_filename>
+<mount_scale>1</mount_scale>
+<scale>1</scale>
+<scale_variation>0.05</scale_variation>
+<tech_folder></tech_folder>
+<variant_filename>dwf_slayers</variant_filename>
+<variant_name>wh_dwf_slayers_troll</variant_name>
 </variants>
 <variants record_uuid="{ba392403-33bf-40c6-9380-36baaac0a0c6}" record_timestamp="1429104144902" record_key="wh_dwf_throne_of_power">
 <low_poly_filename></low_poly_filename>

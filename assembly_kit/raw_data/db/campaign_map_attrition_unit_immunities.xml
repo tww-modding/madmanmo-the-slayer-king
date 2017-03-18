@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_attrition_unit_immunities.xsd" export_time="Mon Feb 20 14:35:32 2017" revision="45" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>d52c4ded-44a0-44e1-9bf8-9f2934b0b8b0</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_attrition_unit_immunities.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="46" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>63d5096f-1032-4139-82f9-59fb7ccc5a4a</edit_uuid>
 <campaign_map_attrition_unit_immunities record_uuid="{ecb08e9f-360e-4b29-a06a-bca74a4a5ecd}" record_timestamp="1479332169729" record_key="athel_lorenwh_dlc05_wef_cav_glade_riders_0">
 <attrition>athel_loren</attrition>
 <unit>wh_dlc05_wef_cav_glade_riders_0</unit>
@@ -1529,6 +1529,18 @@
 <attrition>mountain</attrition>
 <unit>wh_main_dwf_inf_slayers</unit>
 </campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{9b2f6dca-9db8-4b9d-ae05-f804db56cae8}" record_timestamp="1489807743692" record_key="mountainwh_main_dwf_inf_slayers_giant">
+<attrition>mountain</attrition>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{9b98ffd8-4510-45fa-9a3e-d1e656770b41}" record_timestamp="1489807743692" record_key="mountainwh_main_dwf_inf_slayers_neophyte">
+<attrition>mountain</attrition>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{3acfceb6-ba8a-4207-8273-9128f5a1b92f}" record_timestamp="1489807743693" record_key="mountainwh_main_dwf_inf_slayers_troll">
+<attrition>mountain</attrition>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+</campaign_map_attrition_unit_immunities>
 <campaign_map_attrition_unit_immunities record_uuid="{e6bf2731-0913-4627-ab7e-141181c16a2c}" record_timestamp="1456760932852" record_key="mountainwh_main_dwf_inf_thunderers_0">
 <attrition>mountain</attrition>
 <unit>wh_main_dwf_inf_thunderers_0</unit>
@@ -2761,6 +2773,18 @@
 <attrition>non_vampire_territory</attrition>
 <unit>wh_main_dwf_inf_slayers</unit>
 </campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{953882bc-0cd5-484f-b337-77ca43fc0035}" record_timestamp="1489807743693" record_key="non_vampire_territorywh_main_dwf_inf_slayers_giant">
+<attrition>non_vampire_territory</attrition>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{3f11fcc1-4be3-4337-8144-caa0d62da3c3}" record_timestamp="1489807743692" record_key="non_vampire_territorywh_main_dwf_inf_slayers_neophyte">
+<attrition>non_vampire_territory</attrition>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{322f234a-9211-4f37-916b-67bfc0cedf84}" record_timestamp="1489807743693" record_key="non_vampire_territorywh_main_dwf_inf_slayers_troll">
+<attrition>non_vampire_territory</attrition>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
+</campaign_map_attrition_unit_immunities>
 <campaign_map_attrition_unit_immunities record_uuid="{a4d38ea1-1ae7-4e12-a961-67b33a891bdf}" record_timestamp="1453113378608" record_key="non_vampire_territorywh_main_dwf_inf_thunderers_0">
 <attrition>non_vampire_territory</attrition>
 <unit>wh_main_dwf_inf_thunderers_0</unit>
@@ -3820,6 +3844,18 @@
 <campaign_map_attrition_unit_immunities record_uuid="{bde9e487-b8fd-4361-9da5-bbb31779f5ad}" record_timestamp="1456760934901" record_key="snowwh_main_dwf_inf_slayers">
 <attrition>snow</attrition>
 <unit>wh_main_dwf_inf_slayers</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{03ea5661-8282-4cea-a0bb-99dcf1799e5e}" record_timestamp="1489807743693" record_key="snowwh_main_dwf_inf_slayers_giant">
+<attrition>snow</attrition>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{318ffaef-4a48-40dc-bb1a-455550307e64}" record_timestamp="1489807743692" record_key="snowwh_main_dwf_inf_slayers_neophyte">
+<attrition>snow</attrition>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</campaign_map_attrition_unit_immunities>
+<campaign_map_attrition_unit_immunities record_uuid="{7c442640-4e21-4362-939c-7fb2b32f1588}" record_timestamp="1489807743692" record_key="snowwh_main_dwf_inf_slayers_troll">
+<attrition>snow</attrition>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
 </campaign_map_attrition_unit_immunities>
 <campaign_map_attrition_unit_immunities record_uuid="{77e995b9-1454-4340-b4da-eafff0595192}" record_timestamp="1456760934983" record_key="snowwh_main_dwf_inf_thunderers_0">
 <attrition>snow</attrition>

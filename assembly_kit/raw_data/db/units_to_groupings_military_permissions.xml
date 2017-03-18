@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_to_groupings_military_permissions.xsd" export_time="Fri Jan 6 11:04:51 2017" revision="144" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>bc2a615e-711a-4d4b-b114-01ad2cb13f5c</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_to_groupings_military_permissions.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="145" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
+<edit_uuid>a4ab90b2-436d-4e5a-8bd0-03a489f69f9d</edit_uuid>
 <units_to_groupings_military_permissions record_uuid="{d084aa33-2b0a-4d73-969d-5946cf9ddf06}" record_timestamp="1448623169372" record_key="wh_dlc01_chs_cav_gorebeast_chariotwh_main_group_chaos">
 <military_group>wh_main_group_chaos</military_group>
 <unit>wh_dlc01_chs_cav_gorebeast_chariot</unit>
@@ -1128,6 +1128,18 @@
 <units_to_groupings_military_permissions record_uuid="{2e612b6e-9254-432d-abb8-7dc723419ba5}" record_timestamp="1423222686873" record_key="wh_main_dwf_inf_quarrellers_1wh_main_group_dwarfs">
 <military_group>wh_main_group_dwarfs</military_group>
 <unit>wh_main_dwf_inf_quarrellers_1</unit>
+</units_to_groupings_military_permissions>
+<units_to_groupings_military_permissions record_uuid="{7c1a2050-4653-4754-92fe-d544117bbe39}" record_timestamp="1489807743789" record_key="wh_main_dwf_inf_slayers_giantwh_main_group_dwarfs">
+<military_group>wh_main_group_dwarfs</military_group>
+<unit>wh_main_dwf_inf_slayers_giant</unit>
+</units_to_groupings_military_permissions>
+<units_to_groupings_military_permissions record_uuid="{20724fc8-e289-43d1-8032-d1df3606b62c}" record_timestamp="1489807743789" record_key="wh_main_dwf_inf_slayers_neophytewh_main_group_dwarfs">
+<military_group>wh_main_group_dwarfs</military_group>
+<unit>wh_main_dwf_inf_slayers_neophyte</unit>
+</units_to_groupings_military_permissions>
+<units_to_groupings_military_permissions record_uuid="{2d01236b-288a-42f2-a130-e170d6d58d43}" record_timestamp="1489807743789" record_key="wh_main_dwf_inf_slayers_trollwh_main_group_dwarfs">
+<military_group>wh_main_group_dwarfs</military_group>
+<unit>wh_main_dwf_inf_slayers_troll</unit>
 </units_to_groupings_military_permissions>
 <units_to_groupings_military_permissions record_uuid="{e0bbf64e-8c2e-4a3f-98c8-1fc96c20f4b8}" record_timestamp="1423222687094" record_key="wh_main_dwf_inf_slayerswh_main_group_dwarfs">
 <military_group>wh_main_group_dwarfs</military_group>
