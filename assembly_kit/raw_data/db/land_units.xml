@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="1402" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>24a0914d-5301-4056-9588-e27fd05e79b7</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units.xsd" export_time="Sat Mar 18 14:48:43 2017" revision="1403" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>71d1739f-1cea-407e-8730-72cf7110a4ad</edit_uuid>
 <land_units record_uuid="{8fbc06cb-af2b-4f45-b9f0-c1397097b2a1}" record_timestamp="1481031179269" record_key="wh_dlc01_chs_cav_gorebeast_chariot">
 <ability_global_recharge>0</ability_global_recharge>
 <accuracy>10</accuracy>
@@ -25217,7 +25217,7 @@
 <visibility_spotting_range_max>1500</visibility_spotting_range_max>
 <visibility_spotting_range_min>40</visibility_spotting_range_min>
 </land_units>
-<land_units record_uuid="{6a76d804-cbcd-4205-92a3-3c612580e8bb}" record_timestamp="1489807743335" record_key="wh_main_dwf_inf_slayers_giant">
+<land_units record_uuid="{6a76d804-cbcd-4205-92a3-3c612580e8bb}" record_timestamp="1489812523408" record_key="wh_main_dwf_inf_slayers_giant">
 <ability_global_recharge>0</ability_global_recharge>
 <accuracy>10</accuracy>
 <ai_usage_group>melee</ai_usage_group>
@@ -25241,7 +25241,7 @@
 <dismounted_charge_bonus>20</dismounted_charge_bonus>
 <dismounted_melee_attack>33</dismounted_melee_attack>
 <engine></engine>
-<game_expansion_key></game_expansion_key>
+<game_expansion_key>tentpole</game_expansion_key>
 <ground_stat_effect_group>small</ground_stat_effect_group>
 <hiding_scalar>1</hiding_scalar>
 <historical_description_text>wh_main_unit_long_text_dwf_slayers</historical_description_text>
@@ -25281,7 +25281,7 @@
 <visibility_spotting_range_max>1500</visibility_spotting_range_max>
 <visibility_spotting_range_min>40</visibility_spotting_range_min>
 </land_units>
-<land_units record_uuid="{6d804c58-d642-4f4e-8185-1979ee323eea}" record_timestamp="1489807743333" record_key="wh_main_dwf_inf_slayers_neophyte">
+<land_units record_uuid="{6d804c58-d642-4f4e-8185-1979ee323eea}" record_timestamp="1489812523414" record_key="wh_main_dwf_inf_slayers_neophyte">
 <ability_global_recharge>0</ability_global_recharge>
 <accuracy>10</accuracy>
 <ai_usage_group>melee</ai_usage_group>
@@ -25305,7 +25305,7 @@
 <dismounted_charge_bonus>20</dismounted_charge_bonus>
 <dismounted_melee_attack>33</dismounted_melee_attack>
 <engine></engine>
-<game_expansion_key></game_expansion_key>
+<game_expansion_key>tentpole</game_expansion_key>
 <ground_stat_effect_group>small</ground_stat_effect_group>
 <hiding_scalar>1</hiding_scalar>
 <historical_description_text>wh_main_unit_long_text_dwf_slayers</historical_description_text>
@@ -25345,7 +25345,7 @@
 <visibility_spotting_range_max>1500</visibility_spotting_range_max>
 <visibility_spotting_range_min>40</visibility_spotting_range_min>
 </land_units>
-<land_units record_uuid="{a96cb2e4-ee12-4f88-bbc3-77df4faa89b9}" record_timestamp="1489807743335" record_key="wh_main_dwf_inf_slayers_troll">
+<land_units record_uuid="{a96cb2e4-ee12-4f88-bbc3-77df4faa89b9}" record_timestamp="1489812523420" record_key="wh_main_dwf_inf_slayers_troll">
 <ability_global_recharge>0</ability_global_recharge>
 <accuracy>10</accuracy>
 <ai_usage_group>melee</ai_usage_group>
@@ -25369,7 +25369,7 @@
 <dismounted_charge_bonus>20</dismounted_charge_bonus>
 <dismounted_melee_attack>33</dismounted_melee_attack>
 <engine></engine>
-<game_expansion_key></game_expansion_key>
+<game_expansion_key>tentpole</game_expansion_key>
 <ground_stat_effect_group>small</ground_stat_effect_group>
 <hiding_scalar>1</hiding_scalar>
 <historical_description_text>wh_main_unit_long_text_dwf_slayers</historical_description_text>

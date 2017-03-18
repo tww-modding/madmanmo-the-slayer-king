@@ -221,7 +221,7 @@
 <uuid name="building_level_armed_citizenry_junctions">b7776a9c-f8e4-4099-b60a-b57db3a8be62</uuid>
 <uuid name="building_level_required_buildings">e92caf94-e746-439e-8577-92c670fb1281</uuid>
 <uuid name="building_level_required_technology_junctions">dd021179-a24d-4d48-a665-4de5f6ca871f</uuid>
-<uuid name="building_levels">05742cfb-359a-4c3b-89bd-7ab5d858357b</uuid>
+<uuid name="building_levels">8583f5eb-d4d4-414a-b374-649c78c23e08</uuid>
 <uuid name="building_levels_campaign_bmd_layer_group_junctions">74c72eda-4b82-46a6-9cf4-33f7539f3d4e</uuid>
 <uuid name="building_set_to_building_junctions">25aec3a6-ed51-43e2-b9d3-099419e15c90</uuid>
 <uuid name="building_sets">dc00e6e3-db3b-4826-92b5-ed3e61aeab76</uuid>
@@ -763,7 +763,7 @@
 <uuid name="incidents">98d47b24-f218-4261-a939-57d2a2d5047d</uuid>
 <uuid name="interfaction_loyalty_factors">46d7d18d-60fc-4386-991e-82157fc4f1cf</uuid>
 <uuid name="land_unit_articulated_vehicles">ec464502-870f-4105-b2fb-872121c28269</uuid>
-<uuid name="land_units">24a0914d-5301-4056-9588-e27fd05e79b7</uuid>
+<uuid name="land_units">71d1739f-1cea-407e-8730-72cf7110a4ad</uuid>
 <uuid name="land_units_additional_personalities_groups">15180265-183f-4d75-88ab-96dd0bccaf46</uuid>
 <uuid name="land_units_additional_personalities_groups_junctions">8b3a8343-8023-4b4d-ac5e-acd244884619</uuid>
 <uuid name="land_units_officers">b6ab62e4-a061-44fc-8bb2-fdd24a3c1ac9</uuid>

@@ -1,6 +1,7 @@
 [CmdletBinding()]
 param
 (
+	[Parameter(Mandatory=$true)]
 	[string]$message
 )
 
@@ -12,4 +13,9 @@ $here = Split-Path $script:MyInvocation.MyCommand.Path;
 & "$here/update.ps1";
 
 & git add -A
-& git commit -m "$message"
+
+$args = @()
+$args += "commit";
+$args += "-m";
+$args += "`"$message`""
+& git $args

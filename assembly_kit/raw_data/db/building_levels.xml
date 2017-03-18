@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_levels.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="274" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>05742cfb-359a-4c3b-89bd-7ab5d858357b</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_levels.xsd" export_time="Sat Mar 18 14:46:11 2017" revision="275" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>8583f5eb-d4d4-414a-b374-649c78c23e08</edit_uuid>
 <building_levels record_uuid="{51ced8cb-4d68-440a-84e9-bf5c527166e7}" record_timestamp="1467718866311" record_key="wh_dlc03_GRN-DWF_settlement_major_beastmenruin">
 <audio_building_type>wh_cam_settlement_major_chaos</audio_building_type>
 <building_instance_key>wh_main_ORC_settlement_major</building_instance_key>
@@ -11079,7 +11079,7 @@
 <upkeep_cost>0</upkeep_cost>
 <visible_in_ui>1</visible_in_ui>
 </building_levels>
-<building_levels record_uuid="{1f720c81-8288-4a59-abf9-d823f0644c28}" record_timestamp="1489807743676" record_key="wh_main_dwf_slayer_0">
+<building_levels record_uuid="{1f720c81-8288-4a59-abf9-d823f0644c28}" record_timestamp="1489812371330" record_key="wh_main_dwf_slayer_0">
 <audio_building_type></audio_building_type>
 <building_instance_key>wh_main_DWARFS_slayers</building_instance_key>
 <can_be_damaged>1</can_be_damaged>
@@ -11096,7 +11096,7 @@
 <first_in_world_bundle></first_in_world_bundle>
 <food_cost>0</food_cost>
 <health_override>0</health_override>
-<level>3</level>
+<level>1</level>
 <level_name>wh_main_dwf_slayer_0</level_name>
 <military_prestige>0</military_prestige>
 <naval_prestige>0</naval_prestige>
@@ -11108,7 +11108,7 @@
 <upkeep_cost>0</upkeep_cost>
 <visible_in_ui>1</visible_in_ui>
 </building_levels>
-<building_levels record_uuid="{b146c58c-bebd-4ed1-af31-ba8637d233a0}" record_timestamp="1489807743676" record_key="wh_main_dwf_slayer_1">
+<building_levels record_uuid="{b146c58c-bebd-4ed1-af31-ba8637d233a0}" record_timestamp="1489812371334" record_key="wh_main_dwf_slayer_1">
 <audio_building_type></audio_building_type>
 <building_instance_key>wh_main_DWARFS_slayers</building_instance_key>
 <can_be_damaged>1</can_be_damaged>
@@ -11125,7 +11125,7 @@
 <first_in_world_bundle></first_in_world_bundle>
 <food_cost>0</food_cost>
 <health_override>0</health_override>
-<level>1</level>
+<level>2</level>
 <level_name>wh_main_dwf_slayer_1</level_name>
 <military_prestige>0</military_prestige>
 <naval_prestige>0</naval_prestige>
@@ -11137,7 +11137,7 @@
 <upkeep_cost>0</upkeep_cost>
 <visible_in_ui>1</visible_in_ui>
 </building_levels>
-<building_levels record_uuid="{c6fe8286-91be-45d1-8cc5-e958806d2d30}" record_timestamp="1489807743437" record_key="wh_main_dwf_slayer_2">
+<building_levels record_uuid="{c6fe8286-91be-45d1-8cc5-e958806d2d30}" record_timestamp="1489812371338" record_key="wh_main_dwf_slayer_2">
 <audio_building_type></audio_building_type>
 <building_instance_key>wh_main_DWARFS_slayers</building_instance_key>
 <can_be_damaged>1</can_be_damaged>
@@ -11154,7 +11154,7 @@
 <first_in_world_bundle></first_in_world_bundle>
 <food_cost>0</food_cost>
 <health_override>0</health_override>
-<level>2</level>
+<level>3</level>
 <level_name>wh_main_dwf_slayer_2</level_name>
 <military_prestige>0</military_prestige>
 <naval_prestige>0</naval_prestige>
