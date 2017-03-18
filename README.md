@@ -22,8 +22,6 @@ Finally, the **land_units** table also links to the weapon the unit wields, whic
 
 **campaign_map_attrition_unit_immunities** is where you need to set attrition immunity (unsurprisingly).
 
-
-
 ## Hit Points
 Hit points appear to be calculated by 
 
@@ -42,18 +40,19 @@ Buildings are defined in the **building_levels**, **building_chains**, **buildin
 
 **building_chains** links a chain of buildings together (i.e. all the slayer buildings).
 
+**building_upgrades_junction** is required or you get a crash because the game doesnt know how to slot the buildings together
+
+## AI
+New units need to be have their quality stated in ?
+
+AI needs to be made aware of buildings with **cai_construction_system_building_values**.
+
 # Building
-Unfortunately, building this mod is an intensely manual process.
+You can use the `/scripts/build.ps1` file to build a new pack file with the current version. It will also open the Pack File Manager with that file.
 
-From a blank change set (i.e. fresh assembly kit install), you can apply the update_commands.txt file inside the src folder.
+Then you add the directories from `/assembly_kit/working_data` that you need (like db, or text).
 
-After this is done, you can export from there into binary data, which will appear in a parallel folder to the raw data called working_data.
-
-You can import this folder into PFM to create a pack file.
-
-The assembly kit export will export EVERYTHING in the tables you changed, including all the bits you didn't touch, so using PFM you have to go through and remove everything you didn't touch, followed by renaming the data files to something specific to the mod in order to maximise compatibility (i.e. if its called data__core, rename it to madmanmo-improved-slayers-data__core or something).
-
-This is painful and time consuming, and also prone to error.
+If you're going to release the mod, you'll need to clean it and remove everything that you didn't change/add (the export from the Assembly Kit includes the entire table, not just the changed entities).
 
 # Change Notes
 
@@ -70,12 +69,11 @@ Armor piercing
 
 Tier 2 and 3 add 1 experience rank for recruitment
 
-Slayers -> Troll Slayers -> Dragon Slayers
+Slayer Neophytes -> Troll Slayers -> Giant Slayers
 
-No armory requirement, slayers stand on their own
-All slayers have deathblow
+Giant Slayers require the Armory (for their Two Handed Axes).
 
-Slayers
+Slayer Neophytes
 * Reduce charge
 * Reduce cost
 * Reduce weapon damage
@@ -100,3 +98,9 @@ Dragon Slayers
 * Armor piercing
 * Bonus vs large
 * No missile defence
+
+Great Slayer Shrine available at Tier 1, with 4 levels. Each level gives access to Slayers one tier earlier than normal (i.e. Neophytes at Tier 1, Troll Slayers at Tier 2, Giant Slayers at Tier 3)
+Has appropriate garrison.
+Tier 2-3 add experience (1 pip each), maybe 3 also adds slight upkeep reduction (10%?)
+Tier 4 adds upkeep reduction to all slayers + experience + something else?
+Normal corruption reduction too.

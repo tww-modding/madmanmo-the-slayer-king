@@ -10,6 +10,8 @@ $mod = ConvertFrom-Json ([System.IO.File]::ReadAllText($modFilePath));
 $version = "$($mod.version.breaking).$($mod.version.patch).$($mod.version.build)"
 $name = $mod.name;
 
+Write-Verbose "Building [$name] version [$version]"
+
 $buildFolder = "$rootDirectoryPath\build\$version";
 $file = "$buildFolder\$name-$version.pack";
 
