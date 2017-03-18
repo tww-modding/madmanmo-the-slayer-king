@@ -230,7 +230,7 @@
 <uuid name="building_superchains">335560cd-e3ca-461a-93fa-205e36f91503</uuid>
 <uuid name="building_to_building_benefit_junctions">10d5d49e-2333-4bba-8b38-d14314daec13</uuid>
 <uuid name="building_units_allowed">7582c44e-9563-4433-b80d-c59bd98b31e2</uuid>
-<uuid name="building_upgrades_junction">45a7db44-ecba-4134-8d2b-f97269464e4f</uuid>
+<uuid name="building_upgrades_junction">38e7ab16-4d47-42e6-9507-893afe01c206</uuid>
 <uuid name="cai_agent_distribution_profiles">bc8b5b04-4202-4391-a4d2-6449b0b1c86d</uuid>
 <uuid name="cai_agent_distribution_types">92115099-6ed2-4884-9183-dc1947a8e722</uuid>
 <uuid name="cai_agent_embed_profile_agent_type_junctions">d54ab940-cc8b-422b-af03-4877e572bdf5</uuid>
@@ -244,7 +244,7 @@
 <uuid name="cai_base_building_context_values">6d0de0cb-e64c-48c1-bab7-fa39fbb9d231</uuid>
 <uuid name="cai_construction_system_blocking_buildings">6eee8c89-d5f7-4c60-bd8f-161f75ec6a20</uuid>
 <uuid name="cai_construction_system_blocking_categories">4dbf7833-153a-4d55-a0af-85b5c56eebc2</uuid>
-<uuid name="cai_construction_system_building_values">0f0aaebd-e96b-43fd-b84f-60ba94ec80e6</uuid>
+<uuid name="cai_construction_system_building_values">651d56ad-6dc2-4f45-87d6-b073bb9edc77</uuid>
 <uuid name="cai_construction_system_categories">0d2bef86-5898-4de9-a47f-66df31be6271</uuid>
 <uuid name="cai_construction_system_category_groups">af7cb4b4-014d-4b84-b60d-0bd1747a488f</uuid>
 <uuid name="cai_construction_system_province_template_assignment_policies">10dbfced-9ba1-4d2c-89b3-77ee37b23796</uuid>

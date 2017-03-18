@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_upgrades_junction.xsd" export_time="Wed Jan 25 17:48:02 2017" revision="145" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>45a7db44-ecba-4134-8d2b-f97269464e4f</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_upgrades_junction.xsd" export_time="Sat Mar 18 15:18:16 2017" revision="146" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>38e7ab16-4d47-42e6-9507-893afe01c206</edit_uuid>
 <building_upgrades_junction record_uuid="{40e43f25-5cb6-45c1-acd6-94c62e668d25}" record_timestamp="1462550594311" record_key="wh_dlc03_horde_beastmen_arcane_1wh_dlc03_horde_beastmen_arcane_2">
 <from>wh_dlc03_horde_beastmen_arcane_1</from>
 <to>wh_dlc03_horde_beastmen_arcane_2</to>
@@ -848,6 +848,10 @@
 <building_upgrades_junction record_uuid="{a52500dd-0b2c-4cbc-9187-1bb5c81a5ca2}" record_timestamp="1429279499520" record_key="wh_main_dwf_settlement_minor_2wh_main_dwf_settlement_minor_3">
 <from>wh_main_dwf_settlement_minor_2</from>
 <to>wh_main_dwf_settlement_minor_3</to>
+</building_upgrades_junction>
+<building_upgrades_junction record_uuid="{0ed6880d-7034-4ecc-9d9a-c9b6717512b4}" record_timestamp="1489814296181" record_key="wh_main_dwf_slayer_0wh_main_dwf_slayer_1">
+<from>wh_main_dwf_slayer_0</from>
+<to>wh_main_dwf_slayer_1</to>
 </building_upgrades_junction>
 <building_upgrades_junction record_uuid="{8f1afe41-bccb-484e-9ee9-61dd74dfda88}" record_timestamp="1429279430873" record_key="wh_main_dwf_slayer_1wh_main_dwf_slayer_2">
 <from>wh_main_dwf_slayer_1</from>
