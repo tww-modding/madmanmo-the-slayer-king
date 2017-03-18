@@ -229,7 +229,7 @@
 <uuid name="building_states">1a64e8db-72a0-4171-bd9a-e2409d6b2000</uuid>
 <uuid name="building_superchains">335560cd-e3ca-461a-93fa-205e36f91503</uuid>
 <uuid name="building_to_building_benefit_junctions">10d5d49e-2333-4bba-8b38-d14314daec13</uuid>
-<uuid name="building_units_allowed">7582c44e-9563-4433-b80d-c59bd98b31e2</uuid>
+<uuid name="building_units_allowed">ad8bc888-005a-46fb-9319-555b8a6a5faf</uuid>
 <uuid name="building_upgrades_junction">38e7ab16-4d47-42e6-9507-893afe01c206</uuid>
 <uuid name="cai_agent_distribution_profiles">bc8b5b04-4202-4391-a4d2-6449b0b1c86d</uuid>
 <uuid name="cai_agent_distribution_types">92115099-6ed2-4884-9183-dc1947a8e722</uuid>
@@ -763,7 +763,7 @@
 <uuid name="incidents">98d47b24-f218-4261-a939-57d2a2d5047d</uuid>
 <uuid name="interfaction_loyalty_factors">46d7d18d-60fc-4386-991e-82157fc4f1cf</uuid>
 <uuid name="land_unit_articulated_vehicles">ec464502-870f-4105-b2fb-872121c28269</uuid>
-<uuid name="land_units">71d1739f-1cea-407e-8730-72cf7110a4ad</uuid>
+<uuid name="land_units">1ae4f3a9-e34b-4379-8ef9-77fcc46f7263</uuid>
 <uuid name="land_units_additional_personalities_groups">15180265-183f-4d75-88ab-96dd0bccaf46</uuid>
 <uuid name="land_units_additional_personalities_groups_junctions">8b3a8343-8023-4b4d-ac5e-acd244884619</uuid>
 <uuid name="land_units_officers">b6ab62e4-a061-44fc-8bb2-fdd24a3c1ac9</uuid>
@@ -777,8 +777,8 @@
 <uuid name="loading_screen_texts">ef711ac9-22f9-4e62-be26-f03d51216466</uuid>
 <uuid name="loyalty_effects">e863fbf8-2cbc-49e8-9381-0c047c84293e</uuid>
 <uuid name="loyalty_factors">a976bf8a-3cb0-4594-851c-b344e10c67cc</uuid>
-<uuid name="main_units">d86da9cd-5b46-42b2-8aed-30672869fc59</uuid>
-<uuid name="melee_weapons">391291b3-c5f7-49c6-be62-f2947106eab0</uuid>
+<uuid name="main_units">f013c285-295c-4ed6-af60-06ea540cde0a</uuid>
+<uuid name="melee_weapons">044c3884-de9a-4943-b3f2-345958f2365d</uuid>
 <uuid name="mercenary_pool_modifiers">cdb32b7e-d0e8-4f48-9856-3919ba44c0bd</uuid>
 <uuid name="mercenary_pool_to_groups_junctions">e83d2e6e-e106-4a8e-87a8-bbd7482fe7dc</uuid>
 <uuid name="mercenary_pool_type_enums">78040959-b9ad-48b5-b20f-b4dd86d62782</uuid>
@@ -1058,7 +1058,7 @@
 <uuid name="unit_stats_naval_experience_bonuses">903bc65c-d89a-41f3-892d-e33643db1b19</uuid>
 <uuid name="unit_training_level_enum">ad8d8ab4-49f7-48ab-b1e5-90924d5a1214</uuid>
 <uuid name="unit_variant_upgrades">97ab0aac-7beb-4e52-923b-8745642c6cbd</uuid>
-<uuid name="unit_variants">bfa5a049-3a7f-4cd0-ac6f-bdce54f06663</uuid>
+<uuid name="unit_variants">9d372450-7c79-432b-9bf6-d974476b8c82</uuid>
 <uuid name="unit_variants_colours">e14eee55-f63c-43c4-bcae-80d8fb53480d</uuid>
 <uuid name="unit_variants_ships">ce65142b-9368-4fe5-ac9d-fe2ed24b6ffd</uuid>
 <uuid name="unit_weights">6b3eeddf-674d-4c30-8fce-ca3344d20d69</uuid>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="793" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>d86da9cd-5b46-42b2-8aed-30672869fc59</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="Sat Mar 18 16:36:39 2017" revision="794" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>f013c285-295c-4ed6-af60-06ea540cde0a</edit_uuid>
 <main_units record_uuid="{de23a556-27d3-44e9-baf5-d61db7ee9791}" record_timestamp="1481031609625" record_key="wh_dlc01_chs_cav_gorebeast_chariot">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
@@ -19297,7 +19297,7 @@
 <weight>light</weight>
 <world_leader_only>0</world_leader_only>
 </main_units>
-<main_units record_uuid="{ef65c482-8d2f-4db2-880f-99d9069aeaa8}" record_timestamp="1489807743654" record_key="wh_main_dwf_inf_slayers_giant">
+<main_units record_uuid="{ef65c482-8d2f-4db2-880f-99d9069aeaa8}" record_timestamp="1489818999721" record_key="wh_main_dwf_inf_slayers_giant">
 <additional_building_requirement>wh_main_dwf_smith_1</additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_Unique</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh_main_vo_culture_Dwarf</audio_voiceover_culture>
@@ -19309,7 +19309,7 @@
 <create_time>2</create_time>
 <food_cost>0</food_cost>
 <has_spoken_vo>1</has_spoken_vo>
-<in_encyclopedia>1</in_encyclopedia>
+<in_encyclopedia>0</in_encyclopedia>
 <is_high_threat>0</is_high_threat>
 <is_monstrous>0</is_monstrous>
 <is_naval>0</is_naval>
@@ -19342,10 +19342,10 @@
 <unit_scaling>1</unit_scaling>
 <upkeep_cost>350</upkeep_cost>
 <use_hitpoints_in_campaign>0</use_hitpoints_in_campaign>
-<weight>medium</weight>
+<weight>heavy</weight>
 <world_leader_only>0</world_leader_only>
 </main_units>
-<main_units record_uuid="{bbaf144a-a872-4376-8c67-dd91aed06445}" record_timestamp="1489807743652" record_key="wh_main_dwf_inf_slayers_neophyte">
+<main_units record_uuid="{bbaf144a-a872-4376-8c67-dd91aed06445}" record_timestamp="1489818999730" record_key="wh_main_dwf_inf_slayers_neophyte">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_Unique</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh_main_vo_culture_Dwarf</audio_voiceover_culture>
@@ -19357,7 +19357,7 @@
 <create_time>1</create_time>
 <food_cost>0</food_cost>
 <has_spoken_vo>1</has_spoken_vo>
-<in_encyclopedia>1</in_encyclopedia>
+<in_encyclopedia>0</in_encyclopedia>
 <is_high_threat>0</is_high_threat>
 <is_monstrous>0</is_monstrous>
 <is_naval>0</is_naval>
@@ -19393,7 +19393,7 @@
 <weight>light</weight>
 <world_leader_only>0</world_leader_only>
 </main_units>
-<main_units record_uuid="{a92db8aa-c1c8-499f-aa46-a529ea7ddd74}" record_timestamp="1489807743655" record_key="wh_main_dwf_inf_slayers_troll">
+<main_units record_uuid="{a92db8aa-c1c8-499f-aa46-a529ea7ddd74}" record_timestamp="1489818999740" record_key="wh_main_dwf_inf_slayers_troll">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_Unique</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh_main_vo_culture_Dwarf</audio_voiceover_culture>
@@ -19405,7 +19405,7 @@
 <create_time>1</create_time>
 <food_cost>0</food_cost>
 <has_spoken_vo>1</has_spoken_vo>
-<in_encyclopedia>1</in_encyclopedia>
+<in_encyclopedia>0</in_encyclopedia>
 <is_high_threat>0</is_high_threat>
 <is_monstrous>0</is_monstrous>
 <is_naval>0</is_naval>
