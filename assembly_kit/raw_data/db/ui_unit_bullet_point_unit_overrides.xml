@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_bullet_point_unit_overrides.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="126" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>3c75d827-b873-4662-899c-497640e106b8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_bullet_point_unit_overrides.xsd" export_time="Sat Mar 18 17:33:02 2017" revision="127" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>7cf00b77-2d0d-44b7-b34c-c180da64e644</edit_uuid>
 <ui_unit_bullet_point_unit_overrides record_uuid="{2f2748da-f2ca-4e6f-8db1-7d0b061e93e8}" record_timestamp="1446656060509" record_key="wh_dlc01_chs_cav_gorebeast_chariotanti_infantry">
 <bullet_point>anti_infantry</bullet_point>
 <unit_key>wh_dlc01_chs_cav_gorebeast_chariot</unit_key>
@@ -3881,24 +3881,12 @@
 <bullet_point>fast_dwarf</bullet_point>
 <unit_key>wh_main_dwf_inf_slayers_neophyte</unit_key>
 </ui_unit_bullet_point_unit_overrides>
-<ui_unit_bullet_point_unit_overrides record_uuid="{2ecca698-6df6-4d0d-a7fc-626aafd91827}" record_timestamp="1489807743752" record_key="wh_main_dwf_inf_slayers_trollanti_large">
-<bullet_point>anti_large</bullet_point>
-<unit_key>wh_main_dwf_inf_slayers_troll</unit_key>
-</ui_unit_bullet_point_unit_overrides>
-<ui_unit_bullet_point_unit_overrides record_uuid="{46b057c6-9efe-464f-8e34-c8034853d9ab}" record_timestamp="1489807743752" record_key="wh_main_dwf_inf_slayers_trolldeathblow">
-<bullet_point>deathblow</bullet_point>
-<unit_key>wh_main_dwf_inf_slayers_troll</unit_key>
-</ui_unit_bullet_point_unit_overrides>
-<ui_unit_bullet_point_unit_overrides record_uuid="{41f6b47d-b06f-4741-9921-55701eb44269}" record_timestamp="1489807743752" record_key="wh_main_dwf_inf_slayers_trollfast_dwarf">
-<bullet_point>fast_dwarf</bullet_point>
-<unit_key>wh_main_dwf_inf_slayers_troll</unit_key>
-</ui_unit_bullet_point_unit_overrides>
-<ui_unit_bullet_point_unit_overrides record_uuid="{ce9d746a-4c80-4494-826b-8078bc5b55b3}" record_timestamp="1489807743752" record_key="wh_main_dwf_inf_slayers_trollwhirling_axes">
-<bullet_point>whirling_axes</bullet_point>
-<unit_key>wh_main_dwf_inf_slayers_troll</unit_key>
-</ui_unit_bullet_point_unit_overrides>
 <ui_unit_bullet_point_unit_overrides record_uuid="{5e585c70-caba-4307-90f6-7e8931b8f0f2}" record_timestamp="1435221144427" record_key="wh_main_dwf_inf_slayersanti_large">
 <bullet_point>anti_large</bullet_point>
+<unit_key>wh_main_dwf_inf_slayers</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{ed79b71b-b799-4d4d-88e2-1c37bca39d39}" record_timestamp="1489822382267" record_key="wh_main_dwf_inf_slayerscharge_reflector_vs_large">
+<bullet_point>charge_reflector_vs_large</bullet_point>
 <unit_key>wh_main_dwf_inf_slayers</unit_key>
 </ui_unit_bullet_point_unit_overrides>
 <ui_unit_bullet_point_unit_overrides record_uuid="{3874dc80-23ed-4c93-8a3a-a8540ea3bd2c}" record_timestamp="1454525976788" record_key="wh_main_dwf_inf_slayersdeathblow">

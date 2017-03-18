@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_set_to_unit_junctions.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="114" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>7bee6c19-f9a1-4b7d-80ce-3fa1c7ae9bc8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_set_to_unit_junctions.xsd" export_time="Sat Mar 18 17:33:23 2017" revision="115" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>0932b32f-f9e7-42e4-9975-fd3e9c27833d</edit_uuid>
 <unit_set_to_unit_junctions record_uuid="{2f4065a3-d991-48c3-aa38-e232422338be}" record_timestamp="1374768230725" record_key="all_land_artilleryart_fix">
 <exclude>0</exclude>
 <unit_caste></unit_caste>
@@ -4663,14 +4663,6 @@
 <unit_category></unit_category>
 <unit_class></unit_class>
 <unit_record>wh_main_dwf_inf_slayers_neophyte</unit_record>
-<unit_set>dwf_slayers</unit_set>
-</unit_set_to_unit_junctions>
-<unit_set_to_unit_junctions record_uuid="{e9d70579-2018-4f62-a73d-5aacf3d4c60b}" record_timestamp="1489807743781" record_key="dwf_slayerswh_main_dwf_inf_slayers_troll">
-<exclude>0</exclude>
-<unit_caste></unit_caste>
-<unit_category></unit_category>
-<unit_class></unit_class>
-<unit_record>wh_main_dwf_inf_slayers_troll</unit_record>
 <unit_set>dwf_slayers</unit_set>
 </unit_set_to_unit_junctions>
 <unit_set_to_unit_junctions record_uuid="{2db6594f-c7dd-4e16-ac8b-55ecc1265245}" record_timestamp="1474295244187" record_key="dwf_thanewh_main_dwf_cha_thane">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units_to_unit_abilites_junctions.xsd" export_time="Sat Mar 18 13:29:04 2017" revision="273" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king" export_user="assembly.kit">
-<edit_uuid>4fd4a6d6-08cf-43cf-80a2-fbd7728ca47b</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units_to_unit_abilites_junctions.xsd" export_time="Sat Mar 18 17:36:27 2017" revision="274" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>91b1fbec-5e25-4216-8ce4-325b7b344fe3</edit_uuid>
 <land_units_to_unit_abilites_junctions record_uuid="{f837f0ad-e907-476d-9778-4e23fe3c6e8d}" record_timestamp="1465233050031" record_key="wh_dlc01_chs_cha_chaos_lord_10wh_main_character_abilities_deadly_onslaught">
 <ability>wh_main_character_abilities_deadly_onslaught</ability>
 <land_unit>wh_dlc01_chs_cha_chaos_lord_10</land_unit>
@@ -3068,10 +3068,6 @@
 <land_units_to_unit_abilites_junctions record_uuid="{e5f0c821-d823-4574-b756-6980b4d6fe8b}" record_timestamp="1489807743732" record_key="wh_main_dwf_inf_slayers_neophytewh_main_unit_passive_deathblow">
 <ability>wh_main_unit_passive_deathblow</ability>
 <land_unit>wh_main_dwf_inf_slayers_neophyte</land_unit>
-</land_units_to_unit_abilites_junctions>
-<land_units_to_unit_abilites_junctions record_uuid="{6b378211-5752-4f23-bc59-378c66d6e76e}" record_timestamp="1489807743732" record_key="wh_main_dwf_inf_slayers_trollwh_main_unit_passive_deathblow">
-<ability>wh_main_unit_passive_deathblow</ability>
-<land_unit>wh_main_dwf_inf_slayers_troll</land_unit>
 </land_units_to_unit_abilites_junctions>
 <land_units_to_unit_abilites_junctions record_uuid="{1218a640-bc38-42c1-a694-0306f4ae1972}" record_timestamp="1474293462283" record_key="wh_main_dwf_inf_slayerswh_main_unit_passive_deathblow">
 <ability>wh_main_unit_passive_deathblow</ability>

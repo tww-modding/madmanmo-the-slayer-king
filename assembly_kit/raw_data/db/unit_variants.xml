@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_variants.xsd" export_time="Sat Mar 18 17:03:42 2017" revision="487" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>9d372450-7c79-432b-9bf6-d974476b8c82</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_variants.xsd" export_time="Sat Mar 18 17:36:48 2017" revision="488" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-the-slayer-king/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>144cb652-ed4b-4bbd-8ea9-663265867597</edit_uuid>
 <unit_variants record_uuid="{079979f9-23a2-4613-a402-4dba67270777}" record_timestamp="1440776354422" record_key="wh_dlc01_chs_cav_gorebeast_chariot">
 <faction></faction>
 <name>wh_dlc01_chs_cav_gorebeast_chariot</name>
@@ -2786,13 +2786,6 @@
 <unit>wh_main_dwf_inf_slayers_neophyte</unit>
 <unit_card>wh_main_dwf_slayers_neophyte</unit_card>
 <variant>wh_dwf_slayers_neophytes</variant>
-</unit_variants>
-<unit_variants record_uuid="{7d886df5-4d88-4229-b17d-df7dd9b71d26}" record_timestamp="1489820622933" record_key="wh_main_dwf_inf_slayers_troll">
-<faction></faction>
-<name>wh_main_dwf_inf_slayers_troll</name>
-<unit>wh_main_dwf_inf_slayers_troll</unit>
-<unit_card>wh_main_dwf_slayers_troll</unit_card>
-<variant>wh_dwf_slayers_troll</variant>
 </unit_variants>
 <unit_variants record_uuid="{8b10ee27-c194-4da8-b69b-e30ac0e02566}" record_timestamp="1429087924351" record_key="wh_main_dwf_inf_thunderers_0">
 <faction></faction>
