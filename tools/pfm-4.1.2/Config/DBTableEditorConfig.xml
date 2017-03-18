@@ -39,6 +39,7 @@
     <Entry Key="campaign_faction_religion_effects_tables" />
     <Entry Key="campaign_group_abandoned_cultures_overrides_tables" />
     <Entry Key="campaign_group_member_criteria_attrition_types_tables" />
+    <Entry Key="campaign_map_attrition_unit_immunities_tables" />
     <Entry Key="campaign_mp_coop_groups_to_factions_tables" />
     <Entry Key="campaign_stances_factions_junctions_tables" />
     <Entry Key="campaign_variables_tables" />
@@ -215,5 +216,6 @@
     <Entry Key="ui_unit_bullet_point_enums_tables" />
     <Entry Key="resources_tables" />
     <Entry Key="building_upgrades_junction_tables" />
+    <Entry Key="campaign_map_attrition_unit_immunities_tables" />
   </Filters>
 </DBTableEditorConfig>
