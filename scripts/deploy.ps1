@@ -16,17 +16,9 @@ $mod = ConvertFrom-Json ([System.IO.File]::ReadAllText($modFilePath));
 $version = "$($mod.version.breaking).$($mod.version.patch).$($mod.version.build)"
 $name = $mod.name;
 
-$packName = "$name-$version.pack";
-$imageName = "$name-$version.png";
+$modFile = "$name-$version.pack";
+$modFilePath = "$rootDirectoryPath\build\$version\$modFile";
+$destinationPath = "C:\Program Files (x86)\Steam\SteamApps\common\Total War WARHAMMER\data\$modFile";
 
-$packFilePath = "$rootDirectoryPath\build\$version\$packName";
-$imageFilePath = "$rootDirectoryPath\build\$version\$imageName";
-
-$packFileDestinationPath = "C:\Program Files (x86)\Steam\SteamApps\common\Total War WARHAMMER\data\$packName";
-$imageFileDestinationPath = "C:\Program Files (x86)\Steam\SteamApps\common\Total War WARHAMMER\data\$imageName";
-
-Write-Verbose "Copying Mod [$packName] from [$packFilePath] to [$packFileDestinationPath]";
-$packResult = Copy-Item -Path $modFilePath -Destination $packFileDestinationPath -Force;
-
-Write-Verbose "Copying Mod Image [$imageName] from [$imageFilePath] to [$imageFileDestinationPath]";
-$imageResult = Copy-Item -Path $modFilePath -Destination $packFileDestinationPath -Force;
+Write-Verbose "Copying Mod [$modFile] from [$modFilePath] to [$destinationPath]";
+$result = Copy-Item -Path $modFilePath -Destination $destinationPath -Force
